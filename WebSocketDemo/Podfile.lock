@@ -1,0 +1,24 @@
+PODS:
+  - RACSRWebSocket (1.1.2):
+    - ReactiveCocoa (= 2.5)
+    - SocketRocket (= 0.4)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SocketRocket (0.4)
+
+DEPENDENCIES:
+  - RACSRWebSocket (~> 1.1.2)
+
+SPEC CHECKSUMS:
+  RACSRWebSocket: d4ef8d96d5c93754d9fda213215d79aea212c8c5
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SocketRocket: 01443933b7bc362621325f4607b80b4286a99707
+
+PODFILE CHECKSUM: 8fdcdc6126fe5f51028a6f6f20cebcf707bb120c
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+platform :ios, ‘7.0’
+target ‘WebSocketDemo’ do
+
+  pod 'RACSRWebSocket', '~> 1.1.2'
+
+end
